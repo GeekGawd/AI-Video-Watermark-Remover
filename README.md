@@ -1,10 +1,11 @@
 # AI Watermark Remover
 
-
-<div style="text-align: center;">
-  <img src="assets/logo.png" alt="logo" style="display: block; margin-left: auto; margin-right: auto;">
+<div>
+  <p align="center" width="100%">
+    <img src="assets/logo.png />
+  </p>
 </div>
-<br>
+
 A web application for removing watermarks from videos using AI-powered inpainting with LaMa (Large Mask Inpainting).
 
 This can be used to remove watermarks from AI generated videos. Supports:
