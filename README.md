@@ -7,6 +7,14 @@
 <br>
 A web application for removing watermarks from videos using AI-powered inpainting with LaMa (Large Mask Inpainting).
 
+This can be used to remove watermarks from AI generated videos. Supports:
+- Sora
+- Veo 3
+- Kling
+- Hailuo
+
+and more...
+
 ## Results
 
 | Original                                                                                                                                                                                                 | Output                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
